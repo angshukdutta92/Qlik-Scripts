@@ -9,4 +9,4 @@ Delhi,4000];
 SalesByCity:
 Load * resident Sales where City<>'Mumbai';
 drop table Sales;
-//aa
+
