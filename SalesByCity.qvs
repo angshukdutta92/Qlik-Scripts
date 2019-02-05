@@ -1,4 +1,4 @@
-Sales:
+chaloSalesSales:
 Load * Inline [
 City,SalesValue
 Kolkata,1000
@@ -10,5 +10,4 @@ SalesByCity:
 Load * resident Sales where City<>'Mumbai';
 drop table Sales;
 //changed
-//20190205
 
