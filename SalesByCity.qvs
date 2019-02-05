@@ -10,4 +10,5 @@ SalesByCity:
 Load * resident Sales where City<>'Mumbai';
 drop table Sales;
 //changed
+//now
 
